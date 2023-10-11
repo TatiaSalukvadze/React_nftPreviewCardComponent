@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nftPreviewCardComponent/static/css/main.f75b0e9f.css",
+    "main.js": "/nftPreviewCardComponent/static/js/main.9aa6eb93.js",
+    "static/js/787.28cb0dcd.chunk.js": "/nftPreviewCardComponent/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image-equilibrium.jpg": "/nftPreviewCardComponent/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/nftPreviewCardComponent/index.html",
+    "main.f75b0e9f.css.map": "/nftPreviewCardComponent/static/css/main.f75b0e9f.css.map",
+    "main.9aa6eb93.js.map": "/nftPreviewCardComponent/static/js/main.9aa6eb93.js.map",
+    "787.28cb0dcd.chunk.js.map": "/nftPreviewCardComponent/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f75b0e9f.css",
+    "static/js/main.9aa6eb93.js"
+  ]
+}
